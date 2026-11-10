@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "networkbase": { "command": "npx", "args": ["-y", "@networkbase/cli@2", "mcp"] }
+  }
+}

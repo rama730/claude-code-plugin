@@ -1,0 +1,9 @@
+{
+  "name": "networkbase",
+  "version": "2.0.0",
+  "description": "NetworkBase tasks, files and docs as Claude Code tools, through the NetworkBase CLI's MCP server.",
+  "author": { "name": "NetworkBase", "email": "support@networkbase.in" },
+  "homepage": "https://networkbase.in/docs/agents",
+  "repository": "https://github.com/rama730/claude-code-plugin",
+  "license": "Apache-2.0"
+}

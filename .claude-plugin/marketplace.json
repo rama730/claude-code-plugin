@@ -1,0 +1,17 @@
+{
+  "name": "networkbase",
+  "owner": {
+    "name": "NetworkBase",
+    "email": "support@networkbase.in"
+  },
+  "metadata": {
+    "description": "NetworkBase for Claude Code: tasks, files and docs as tools, through the NetworkBase CLI."
+  },
+  "plugins": [
+    {
+      "name": "networkbase",
+      "source": "./plugins/networkbase",
+      "description": "Work on NetworkBase tasks, files and docs from Claude Code: \"how many tasks do I have\", \"create a task\", \"change the README\"."
+    }
+  ]
+}
